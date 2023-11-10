@@ -26,3 +26,50 @@ The files generated are tailored for integration with ZKP circuits, making them 
 
 ## Conclusion:
 ZKP DataGuard is committed to enhancing the utility and adoption of ZKP by addressing the critical aspect of data privacy and management. By providing a user-friendly and secure method for managing sensitive data, it bridges the gap between the on-chain and off-chain worlds, paving the way for broader and more effective use of ZKP technology.
+
+## Milestones
+
+**Phase 1: Foundation and Documentation**  **(done)**
+
+1. Identify the Issue: Document the problem statement, goals, and objectives. **(done)**
+2. Learning Material: Summarize key learnings from the material and how it applies to your project.  **(done)**
+3. Write Project Description: Create a comprehensive description including use cases, features, and system architecture.  **(done)**
+
+**Phase 2: Local Development and Data Management**  **(done)**
+
+4. Add Local Data Storage: Implement and document local storage capabilities for LocalBlockChain, ensuring data integrity and accessibility.  **(done)**
+5. Add File Encryption: Develop file encryption methods, document the encryption standards used, and how they integrate with local storage.  **(done)**
+
+**Phase 3: Research and Browser Compatibility (WIP)**
+
+6. Research Proof of Tamper: Investigate tamper-evident mechanisms, document findings, and prepare a whitepaper or documentation outlining the proposed solution. **(WIP)**
+7. Browser Implementation: Adapt the implementation for browser compatibility, ensuring cross-browser functionality and security.
+
+**Phase 4: Testing and Verification**
+
+8. Testing Work Correctness: Conduct thorough unit, integration, and system testing, documenting all test cases and results.
+9. Blockchain Integration Testing: Test the integration with the blockchain, focusing on interaction, data flow, and integrity between the system and the blockchain.
+
+**Phase 5: Deployment and Distribution**
+
+10. Deployment to npm Repository: Prepare the package for deployment, including final testing, documentation, versioning, and a changelog. Ensure all dependencies are clearly stated and the package is ready for public use.
+
+**Additional Structuring and Milestones:**
+
+**Phase 6: Security and Optimization**
+
+11. Security Auditing: Perform security audits of both local and browser implementations, especially after file encryption.
+12. Performance Optimization: Benchmark performance, identify bottlenecks, and optimize code for both local and blockchain interactions.
+
+**Phase 7: Final Review and Release Preparation**
+
+13. Code Review: Conduct a comprehensive code review with peers or community members to ensure code quality and maintainability.
+14. Documentation Finalization: Ensure all documentation is clear, complete, and ready for end-users and developers.
+
+**Phase 8: Post-Release Activities**
+
+15. Community Engagement: Engage with the community to gather initial feedback, bug reports, and feature requests.
+16. Monitoring and Updates: Implement monitoring for the usage of the npm package and plan for regular updates and patches based on user feedback.
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
